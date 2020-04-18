@@ -15,17 +15,24 @@ def sort_mag_spec_type(data):
                                               'Spec_Type',
                                               'Magnitude',]) #empty pandas array #retrun this
 
+  #open text file
+  file_object = open('object_spectral_class_magnitude.txt', 'a')
+
   for index, row in data.iterrows():
       spec_type_str = row['Spec_Type'] #this is a long string
       r_band_mag_str = row['R_band_mag']
       if (isinstance(spec_type_str, float)):
-          print(str(row['Object']) + ": " + str(spec_type_str) + " " + "Spectral Class Data missing")
-          print("Magnitude: " + str(r_band_mag_str))
+          #print(str(row['Object']) + ": " + str(spec_type_str) + " " + "Spectral Class Data missing")
+          file_object.write(str(row['Object']) + ": " + str(spec_type_str) + " " + "Spectral Class Data missing\n")
+          #print("Magnitude: " + str(r_band_mag_str))
+          file_object.write("Magnitude: " + str(r_band_mag_str)+"\n\n")
           missing_spectral_class += 1
       else:
           #TODO: Make this smarter.
           if(spec_type_str[0] == 'O'):
-              print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Blue Super Massive Star') #Can you print the OBject as well
+              #print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Blue Super Massive Star') #Can you print the OBject as well
+              file_object.write(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Blue Super Massive Star\n')
+
               spectral_bins[0] += 1
               if(spec_type_str[1] == '0' or spec_type_str[1] == '1' or spec_type_str[1] == '2' or spec_type_str[1] == '3'):
                   spectral_bins_temp[0] += 1  
@@ -37,13 +44,16 @@ def sort_mag_spec_type(data):
                   spectral_bins_temp[2] += 1
 
               if(isinstance(r_band_mag_str, str)):
-                  print("Magnitude: " + str(r_band_mag_str))
+                  #print("Magnitude: " + str(r_band_mag_str))
+                  file_object.write("Magnitude: " + str(r_band_mag_str)+"\n\n")
                   magnitude_spec_type = magnitude_spec_type.append({'Object': str(row['Object']), 
                                                                     'Category': str(row['Category']),
                                                                     'Spec_Type':str(spec_type_str[0:2]),
                                                                     'Magnitude': float(r_band_mag_str)}, ignore_index=True)
           elif(spec_type_str[0] == 'B'):
-              print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Blue Massive Star') #Can you print the OBject as well
+              #print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Blue Massive Star') #Can you print the OBject as well
+              file_object.write(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Blue Massive Star\n')
+
               spectral_bins[1] += 1
               if(spec_type_str[1] == '0' or spec_type_str[1] == '1' or spec_type_str[1] == '2' or spec_type_str[1] == '3'):
                   spectral_bins_temp[3] += 1  
@@ -52,13 +62,17 @@ def sort_mag_spec_type(data):
               elif(spec_type_str[1] == '7' or spec_type_str[1] == '8' or spec_type_str[1] == '9'):
                   spectral_bins_temp[5] += 1
               if(isinstance(r_band_mag_str, str)):
-                  print("Magnitude: " + str(r_band_mag_str))
+                  #print("Magnitude: " + str(r_band_mag_str))
+                  file_object.write("Magnitude: " + str(r_band_mag_str)+"\n\n")
+
                   magnitude_spec_type = magnitude_spec_type.append({'Object': str(row['Object']), 
                                                                     'Category': str(row['Category']),
                                                                     'Spec_Type':str(spec_type_str[0:2]),
                                                                     'Magnitude': float(r_band_mag_str)}, ignore_index=True)
           elif(spec_type_str[0] == 'A'):
-              print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Blue Dwarf Star') #Can you print the OBject as well
+              #print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Blue Dwarf Star') #Can you print the OBject as well
+              file_object.write(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Blue Dwarf Star\n')
+
               spectral_bins[2] += 1
               if(spec_type_str[1] == '0' or spec_type_str[1] == '1' or spec_type_str[1] == '2' or spec_type_str[1] == '3'):
                   spectral_bins_temp[6] += 1  
@@ -67,13 +81,17 @@ def sort_mag_spec_type(data):
               elif(spec_type_str[1] == '7' or spec_type_str[1] == '8' or spec_type_str[1] == '9'):
                   spectral_bins_temp[8] += 1
               if(isinstance(r_band_mag_str, str)):
-                  print("Magnitude: " + str(r_band_mag_str))
+                  #print("Magnitude: " + str(r_band_mag_str))
+                  file_object.write("Magnitude: " + str(r_band_mag_str)+"\n\n")
+
                   magnitude_spec_type = magnitude_spec_type.append({'Object': str(row['Object']), 
                                                                     'Category': str(row['Category']),
                                                                     'Spec_Type':str(spec_type_str[0:2]),
                                                                     'Magnitude': float(r_band_mag_str)}, ignore_index=True)
           elif(spec_type_str[0] == 'F'):
-              print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Yellow-white Dwarf Star') #Can you print the OBject as well
+              #print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Yellow-white Dwarf Star') #Can you print the OBject as well
+              file_object.write(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Yellow-white Dwarf Star\n')
+
               spectral_bins[3] += 1
               if(spec_type_str[1] == '0' or spec_type_str[1] == '1' or spec_type_str[1] == '2' or spec_type_str[1] == '3'):
                   spectral_bins_temp[9] += 1  
@@ -82,13 +100,16 @@ def sort_mag_spec_type(data):
               elif(spec_type_str[1] == '7' or spec_type_str[1] == '8' or spec_type_str[1] == '9'):
                   spectral_bins_temp[11] += 1
               if(isinstance(r_band_mag_str, str)):
-                  print("Magnitude: " + str(r_band_mag_str))
+                  #print("Magnitude: " + str(r_band_mag_str))
+                  file_object.write("Magnitude: " + str(r_band_mag_str)+"\n\n")
+
                   magnitude_spec_type = magnitude_spec_type.append({'Object': str(row['Object']), 
                                                                     'Category': str(row['Category']),
                                                                     'Spec_Type':str(spec_type_str[0:2]),
                                                                     'Magnitude': float(r_band_mag_str)}, ignore_index=True)
           elif(spec_type_str[0] == 'G'):
-              print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Yellow Dwarf Star') #Can you print the OBject as well        
+              #print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Yellow Dwarf Star') #Can you print the OBject as well
+              file_object.write(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Yellow Dwarf Star\n')        
               spectral_bins[4] += 1
               if(spec_type_str[1] == '0' or spec_type_str[1] == '1' or spec_type_str[1] == '2' or spec_type_str[1] == '3'):
                   spectral_bins_temp[12] += 1  
@@ -97,13 +118,16 @@ def sort_mag_spec_type(data):
               elif(spec_type_str[1] == '7' or spec_type_str[1] == '8' or spec_type_str[1] == '9'):
                   spectral_bins_temp[14] += 1
               if(isinstance(r_band_mag_str, str)):
-                  print("Magnitude: " + str(r_band_mag_str))
+                  #print("Magnitude: " + str(r_band_mag_str))
+                  file_object.write("Magnitude: " + str(r_band_mag_str)+"\n\n")
                   magnitude_spec_type = magnitude_spec_type.append({'Object': str(row['Object']), 
                                                                     'Category': str(row['Category']),
                                                                     'Spec_Type':str(spec_type_str[0:2]),
                                                                     'Magnitude': float(r_band_mag_str)}, ignore_index=True)
           elif(spec_type_str[0] == 'K'):
-              print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Orange Dwarf Star') #Can you print the OBject as well        
+              #print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Orange Dwarf Star') #Can you print the OBject as well    
+              file_object.write(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Orange Dwarf Star\n')        
+
               spectral_bins[5] += 1
               if(spec_type_str[1] == '0' or spec_type_str[1] == '1' or spec_type_str[1] == '2' or spec_type_str[1] == '3'):
                   spectral_bins_temp[15] += 1  
@@ -112,13 +136,18 @@ def sort_mag_spec_type(data):
               elif(spec_type_str[1] == '7' or spec_type_str[1] == '8' or spec_type_str[1] == '9'):
                   spectral_bins_temp[17] += 1
               if(isinstance(r_band_mag_str, str)):
-                  print("Magnitude: " + str(r_band_mag_str))
+                  #print("Magnitude: " + str(r_band_mag_str))
+                  file_object.write("Magnitude: " + str(r_band_mag_str)+"\n\n")
+
+
                   magnitude_spec_type = magnitude_spec_type.append({'Object': str(row['Object']), 
                                                                     'Category': str(row['Category']),
                                                                     'Spec_Type':str(spec_type_str[0:2]),
                                                                     'Magnitude': float(r_band_mag_str)}, ignore_index=True)
           elif(spec_type_str[0] == 'M'):
-              print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Red Dwarf Star') #Can you print the OBject as well
+              #print(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Red Dwarf Star') #Can you print the OBject as well
+              file_object.write(str(row['Object']) + ": " + spec_type_str[0:temp_sense] + ' Type Red Dwarf Star\n')
+
               spectral_bins[6] += 1
               if(spec_type_str[1] == '0' or spec_type_str[1] == '1' or spec_type_str[1] == '2' or spec_type_str[1] == '3'):
                   spectral_bins_temp[18] += 1  
@@ -127,12 +156,13 @@ def sort_mag_spec_type(data):
               elif(spec_type_str[1] == '7' or spec_type_str[1] == '8' or spec_type_str[1] == '9'):
                   spectral_bins_temp[20] += 1
               if(isinstance(r_band_mag_str, str)):
-                  print("Magnitude: " + str(r_band_mag_str))
+                  #print("Magnitude: " + str(r_band_mag_str))
+                  file_object.write("Magnitude: " + str(r_band_mag_str)+"\n\n")
                   magnitude_spec_type = magnitude_spec_type.append({'Object': str(row['Object']), 
                                                                     'Category': str(row['Category']),
                                                                     'Spec_Type':str(spec_type_str[0:2]),
                                                                     'Magnitude': float(r_band_mag_str)}, ignore_index=True)
-
+  file_object.close()
   return (missing_spectral_class,spectral_bins, spectral_bins_temp, magnitude_spec_type)
 
 def sort_mag(data):

@@ -1,4 +1,4 @@
-Object,Category,Spec_Type,R_band_mag,Distance_pc,Disk Major Axis,Disk_Diameter_AU,Inclination_degrees,Resolution_elements_across,At_ref. wavelength_microns,RA_J2000,DEC_J2000
+Object,Category,Spec_Type,R_band_mag,Distance_pc,Disk_Major_Axis,Disk_Diameter_AU,Inclination_degrees,Resolution_elements_across,At_ref.wavelength_microns,RA_J2000,DEC_J2000
 2MASSI J1628137-243139,TT,,17.7,140,4.3,602,86,10.8,2.1,04 16 01.58,-51 29 11.9
 49 Cet,Debris,A1,5.6,59,9.8,578,79,24.5,850,02 17 18.87,+33 50 49.9
 61 Vir,Debris,G7V,4.2,8.5,22,187,77,3.7,70,16 19 29.24,-21 24 13.3

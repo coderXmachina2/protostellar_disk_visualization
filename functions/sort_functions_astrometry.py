@@ -76,3 +76,28 @@ def plot_astrometry(astrometry):
 	b_rad = c.b.radian
 
 	return(c, l_rad, b_rad)
+
+def cat_mag_diam(data):
+	sorted_objects = data.sort_values(by ='Disk_Major_Axis')
+
+	magnitudes = []
+	missing_mag = 0
+
+	cat_magnitude_diameter = pd.DataFrame(columns=['Object', 
+	                                                'R_band_mag',
+	                                                'Disk_Major_Axis'])
+
+	for index, row in sorted_objects.iterrows():
+	    r_band_mag_str = row['R_band_mag']
+	    if (isinstance(r_band_mag_str, float)): #the nan got treated as a float
+	        missing_mag+=1
+	    else:
+	        if(r_band_mag_str != '-'):
+	            cat_magnitude_diameter = cat_magnitude_diameter.append({'Object': str(row['Object']), 
+	                                                    'R_band_mag': float(r_band_mag_str), 
+	                                                    'Disk_Major_Axis': float(row['Disk_Major_Axis'])},
+	                                                    ignore_index=True)
+	        else:
+	             missing_mag+=1
+
+	return(cat_magnitude_diameter)
