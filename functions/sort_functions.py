@@ -221,15 +221,17 @@ def sort_magnitude_spec_type_arrange(magnitude_spec_type, spectral_types , spect
 
   t = np.array(magnitude_spec_type_bins_arrange)
 
+
   p = [[] for i in range(len(spectral_types))]
+  try_this = [[] for sp in range(len(spectral_types))]
+
   #make an array slice
   q = 0
   for i in range(0, len(magnitude_spec_type_bins_arrange)-1):
       p[q].append(t[i])
+      try_this[q].append(t[i])
       if(magnitude_spec_type_bins_arrange['Spec_Type'][i+1][0] != magnitude_spec_type_bins_arrange['Spec_Type'][i][0]):
-          q +=1
-
-  p[q].append(t[186])
+          q +=1 #move to the next bin
 
   for v in range(0,len(p)):
       n = len(p[v])
@@ -240,18 +242,36 @@ def sort_magnitude_spec_type_arrange(magnitude_spec_type, spectral_types , spect
               if p[v][j][2] > p[v][j+1][2] :
                   p[v][j][2], p[v][j+1][2] = p[v][j+1][2], p[v][j][2]
 
+  #declare new...
   column_names =["Object", "Category", 'Spec_Type','Magnitude']
   final_dataframe = pd.DataFrame(columns = column_names)
-  final_dataframe
+  sorted_mag_spec_bins = pd.DataFrame(columns = column_names)
 
-  for t in p: #for lists in p
-      for g in t: #for objects in list
+  for sub_lists in p: #for lists in p
+
+      if (len(sub_lists)!= 0):
+        #print(np.array(sub_lists))
+        df = pd.DataFrame(data=np.array(sub_lists)  , columns = column_names  )
+        #print(df.sort_values(by ='Magnitude'))
+        sorted_mag_spec_bins = sorted_mag_spec_bins.append(df.sort_values(by ='Magnitude'))
+
+      #do it here...
+      #print(sub_lists)
+      #make 
+      #k_series = pd.Series(sub_lists, index = final_dataframe.columns)
+      #print(k_series)
+      for g in sub_lists: #for objects in list
           a_series = pd.Series(g, index = final_dataframe.columns)
+          #print(a_series) #these are one by one
           final_dataframe = final_dataframe.append(a_series, ignore_index=True)
-
+  #print(sorted_mag_spec_bins)
+  #mean magnitude
   mean_magnitude_spec_class = []
   mean_magnitude_spec_class.append(0)
   for z in range(0 , len(spectral_types)-1):
     mean_magnitude_spec_class.append(np.mean(np.array(p[z])[:,3]))
 
-  return (magnitude_spec_type_arrange, final_dataframe, mean_magnitude_spec_class)
+  return (magnitude_spec_type_arrange, 
+    final_dataframe, 
+    mean_magnitude_spec_class,
+    sorted_mag_spec_bins)

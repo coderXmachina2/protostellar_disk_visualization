@@ -7,9 +7,11 @@ from astropy import units as u
 
 def astrometry_table(data):
    #
-
 	missing_dist = 0
-	astrometry = pd.DataFrame(columns=['Object', 
+	astrometry = pd.DataFrame(columns=['Object',
+									   'Category',
+									   'Spectral_class',
+									   'magnitudes',
 	                                   'Distance_pc', 
 	                                   'Distance_kpc',
 	                                   'Distance_ly', 
@@ -53,6 +55,9 @@ def astrometry_table(data):
 
 	        #print("\n")
 	        astrometry = astrometry.append({'Object': str(row['Object']),
+	        							    'Category': row['Category'],
+									        'Spectral_class': row['Spec_Type'] ,
+									        'magnitudes': row['R_band_mag'],
 	                                        'Distance_pc': float(dist_pc_str), 
 	                                        'Distance_kpc': (float(dist_pc_str)*u.parsec).to(u.kpc),
 	                                        'Distance_ly': (float(dist_pc_str)*u.parsec).to(u.lightyear), 

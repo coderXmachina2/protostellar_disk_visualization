@@ -721,3 +721,1449 @@ Magnitude: 13.3
 zeta Lep: A0 Type Blue Dwarf Star
 Magnitude: 3.4
 
+2MASSI J1628137-243139: nan Spectral Class Data missing
+Magnitude: 17.7
+
+49 Cet: A1 Type Blue Dwarf Star
+Magnitude: 5.6
+
+61 Vir: G7 Type Yellow Dwarf Star
+Magnitude: 4.2
+
+99 Her: F7 Type Yellow-white Dwarf Star
+Magnitude: 4.7
+
+[MR81] H alpha 17 NE: M2 Type Red Dwarf Star
+Magnitude: 16.9
+
+AA Tau: M0 Type Red Dwarf Star
+Magnitude: 11.8
+
+AB Aur: A0 Type Blue Dwarf Star
+Magnitude: 7.1
+
+alpha CrB: A0 Type Blue Dwarf Star
+Magnitude: 2.2
+
+AS 205 A: K0 Type Orange Dwarf Star
+Magnitude: 12.8
+
+AS 205 B: K7 Type Orange Dwarf Star
+Magnitude: 14
+
+AS 209: K5 Type Orange Dwarf Star
+Magnitude: 10.4
+
+ASR 41: nan Spectral Class Data missing
+Magnitude: nan
+
+AU Mic: M1 Type Red Dwarf Star
+Magnitude: 8.9
+
+beta Leo: A3 Type Blue Dwarf Star
+Magnitude: 2
+
+beta Pictoris: A5 Type Blue Dwarf Star
+Magnitude: 3.9
+
+beta Tri: A5 Type Blue Dwarf Star
+Magnitude: 2.9
+
+beta UMa: A1 Type Blue Dwarf Star
+Magnitude: 2.3
+
+BP Psc: nan Spectral Class Data missing
+Magnitude: 12.2
+
+BP Tau: K7 Type Orange Dwarf Star
+Magnitude: 11.1
+
+CAHA J23056+6016: nan Spectral Class Data missing
+Magnitude: nan
+
+CB 26: nan Spectral Class Data missing
+Magnitude: nan
+
+CI Tau: K7 Type Orange Dwarf Star
+Magnitude: 12.3
+
+CIDA 9: M4 Type Red Dwarf Star
+Magnitude: 14.5
+
+CoKu Tau 1: M0 Type Red Dwarf Star
+Magnitude: 16.8
+
+CQ Tau: F2 Type Yellow-white Dwarf Star
+Magnitude: 8.9
+
+CRBR 2422.8-3423: nan Spectral Class Data missing
+Magnitude: nan
+
+CY Tau: M1 Type Red Dwarf Star
+Magnitude: 12.5
+
+DG Tau: K6 Type Orange Dwarf Star
+Magnitude: 11.4
+
+DG Tau B: nan Spectral Class Data missing
+Magnitude: nan
+
+DL Tau: K7 Type Orange Dwarf Star
+Magnitude: 11.8
+
+DM Tau: M1 Type Red Dwarf Star
+Magnitude: 12.1
+
+DN Tau: M0 Type Red Dwarf Star
+Magnitude: 11.5
+
+DO Tau: M0 Type Red Dwarf Star
+Magnitude: 12.3
+
+DoAr 25: K7 Type Orange Dwarf Star
+Magnitude: 12.7
+
+DoAr 28: K5 Type Orange Dwarf Star
+Magnitude: 12.1
+
+DoAr 33: K4 Type Orange Dwarf Star
+Magnitude: 13.2
+
+DoAr 44: K5 Type Orange Dwarf Star
+Magnitude: 11.7
+
+DQ Tau: M0 Type Red Dwarf Star
+Magnitude: 13.2
+
+DR Tau: K4 Type Orange Dwarf Star
+Magnitude: 13.6
+
+DS Tau: M0 Type Red Dwarf Star
+Magnitude: 12.4
+
+Elias 2-20: M0 Type Red Dwarf Star
+Magnitude: 19.4
+
+Elias 2-24: K5 Type Orange Dwarf Star
+Magnitude: 15.8
+
+Elias 2-27: M0 Type Red Dwarf Star
+epsilon Eri: K2 Type Orange Dwarf Star
+Magnitude: 3.8
+
+ESO Halpha 569: M2 Type Red Dwarf Star
+Magnitude: 19.7
+
+eta Crv: F2 Type Yellow-white Dwarf Star
+Magnitude: 4.4
+
+FN Tau: M5 Type Red Dwarf Star
+Magnitude: 13.7
+
+Fomalhaut: A3 Type Blue Dwarf Star
+Magnitude: 1.2
+
+FT Tau: M3 Type Red Dwarf Star
+Magnitude: 13.2
+
+FW Tau C: nan Spectral Class Data missing
+Magnitude: 20.9
+
+gamma Dor: F1 Type Yellow-white Dwarf Star
+Magnitude: 4
+
+gamma Oph: A0 Type Blue Dwarf Star
+Magnitude: 3.7
+
+gamma Tri: A1 Type Blue Dwarf Star
+Magnitude: 3.9
+
+GG Tau: K7 Type Orange Dwarf Star
+Magnitude: 10.8
+
+GJ 581: M3 Type Red Dwarf Star
+Magnitude: 9.5
+
+GM Aur: K7 Type Orange Dwarf Star
+Magnitude: 11.2
+
+GO Tau: K5 Type Orange Dwarf Star
+Magnitude: 13.6
+
+GSS 39: M0 Type Red Dwarf Star
+GW Lup: M1 Type Red Dwarf Star
+Magnitude: 12.7
+
+Haro 6-13: M0 Type Red Dwarf Star
+Magnitude: 15
+
+Haro 6-5B: K5 Type Orange Dwarf Star
+Magnitude: 13.6
+
+HD 100453: A9 Type Blue Dwarf Star
+Magnitude: 7.8
+
+HD 100546: B9 Type Blue Massive Star
+Magnitude: 6.7
+
+HD 104860: F8 Type Yellow-white Dwarf Star
+Magnitude: 8
+
+HD 10647: F8 Type Yellow-white Dwarf Star
+Magnitude: 5.5
+
+HD 106906: F5 Type Yellow-white Dwarf Star
+Magnitude: 8.24
+
+HD 107146: G2 Type Yellow Dwarf Star
+Magnitude: 6.7
+
+HD 10939: A1 Type Blue Dwarf Star
+Magnitude: 5.12
+
+HD 110058: A0 Type Blue Dwarf Star
+Magnitude: 7.99
+
+HD 111520: F5 Type Yellow-white Dwarf Star
+Magnitude: 9.27
+
+HD 112810: F3 Type Yellow-white Dwarf Star
+Magnitude: 9.51
+
+HD 113766: F3 Type Yellow-white Dwarf Star
+Magnitude: 7.96
+
+HD 114082: F3 Type Yellow-white Dwarf Star
+Magnitude: 8.58
+
+HD 115600: F2 Type Yellow-white Dwarf Star
+Magnitude: 8.57
+
+HD 117214: F6 Type Yellow-white Dwarf Star
+Magnitude: 7.6
+
+HD 129590: G1 Type Yellow Dwarf Star
+Magnitude: 9.86
+
+HD 131835: A2 Type Blue Dwarf Star
+Magnitude: 7.95
+
+HD 135344B: F4 Type Yellow-white Dwarf Star
+Magnitude: 8.7
+
+HD 138813: A0 Type Blue Dwarf Star
+Magnitude: 7.32
+
+HD 138965: A1 Type Blue Dwarf Star
+Magnitude: 6.51
+
+HD 139664: F5 Type Yellow-white Dwarf Star
+Magnitude: 4.7
+
+HD 141378: A5 Type Blue Dwarf Star
+Magnitude: 5.61
+
+HD 141569A: B9 Type Blue Massive Star
+Magnitude: 7.1
+
+HD 141943: G2 Type Yellow Dwarf Star
+Magnitude: 7.5
+
+HD 142446: F3 Type Yellow-white Dwarf Star
+Magnitude: 9.32
+
+HD 142527: F6 Type Yellow-white Dwarf Star
+Magnitude: 8.4
+
+HD 142666: A8 Type Blue Dwarf Star
+Magnitude: 8.3
+
+HD 143006: G7 Type Yellow Dwarf Star
+Magnitude: 9.6
+
+HD 145560: F5 Type Yellow-white Dwarf Star
+Magnitude: 9.3
+
+HD 146181: F6 Type Yellow-white Dwarf Star
+Magnitude: 9.56
+
+HD 150193A: A2 Type Blue Dwarf Star
+Magnitude: 8.9
+
+HD 15115: F2 Type Yellow-white Dwarf Star
+Magnitude: 6.8
+
+HD 153053: A5 Type Blue Dwarf Star
+Magnitude: 5.72
+
+HD 156623: A0 Type Blue Dwarf Star
+Magnitude: 7.28
+
+HD 15745: F2 Type Yellow-white Dwarf Star
+Magnitude: 7.5
+
+HD 157587: F5 Type Yellow-white Dwarf Star
+Magnitude: 8.1
+
+HD 159492: A5 Type Blue Dwarf Star
+Magnitude: 5.33
+
+HD 163296: A1 Type Blue Dwarf Star
+Magnitude: 6.9
+
+HD 166: K0 Type Orange Dwarf Star
+Magnitude: 5.6
+
+HD 16743: F0 Type Yellow-white Dwarf Star
+Magnitude: 6.86
+
+HD 169142: A5 Type Blue Dwarf Star
+Magnitude: 8.2
+
+HD 170773: F5 Type Yellow-white Dwarf Star
+Magnitude: 6.67
+
+HD 172555: A5 Type Blue Dwarf Star
+Magnitude: 4.93
+
+HD 17848: A2 Type Blue Dwarf Star
+Magnitude: 5.34
+
+HD 181296: A0 Type Blue Dwarf Star
+Magnitude: 5
+
+HD 181327: F5 Type Yellow-white Dwarf Star
+Magnitude: 7.1
+
+HD 181869: B8 Type Blue Massive Star
+Magnitude: 3.9
+
+HD 182681: B8 Type Blue Massive Star
+Magnitude: 5.62
+
+HD 183324: A0 Type Blue Dwarf Star
+Magnitude: 5.87
+
+HD 188228: A0 Type Blue Dwarf Star
+Magnitude: 3.96
+
+HD 191089: F5 Type Yellow-white Dwarf Star
+Magnitude: 7
+
+HD 192425: A1 Type Blue Dwarf Star
+Magnitude: 5.04
+
+HD 195627: F1 Type Yellow-white Dwarf Star
+Magnitude: 4.84
+
+HD 200775: B2 Type Blue Massive Star
+Magnitude: 7.5
+
+HD 202628: G2 Type Yellow Dwarf Star
+Magnitude: 6.4
+
+HD 202917: G7 Type Yellow Dwarf Star
+Magnitude: 8.1
+
+HD 206893: F5 Type Yellow-white Dwarf Star
+Magnitude: 7.07
+
+HD 207129: G2 Type Yellow Dwarf Star
+Magnitude: 5.4
+
+HD 20794: G6 Type Yellow Dwarf Star
+Magnitude: 3.7
+
+HD 21997: A3 Type Blue Dwarf Star
+Magnitude: 6.47
+
+HD 23484: K2 Type Orange Dwarf Star
+Magnitude: 6.52
+
+HD 28355: A7 Type Blue Dwarf Star
+Magnitude: 4.9
+
+HD 30422: A3 Type Blue Dwarf Star
+Magnitude: 6.27
+
+HD 30447: F3 Type Yellow-white Dwarf Star
+Magnitude: 7.5
+
+HD 32297: A0 Type Blue Dwarf Star
+Magnitude: 8.1
+
+HD 34282: A0 Type Blue Dwarf Star
+Magnitude: 10.1
+
+HD 35650: K6 Type Orange Dwarf Star
+Magnitude: 8.29
+
+HD 35841: F3 Type Yellow-white Dwarf Star
+Magnitude: 8.5
+
+HD 36546: B8 Type Blue Massive Star
+Magnitude: 6.93
+
+HD 377: G2 Type Yellow Dwarf Star
+Magnitude: 7.1
+
+HD 38206: A0 Type Blue Dwarf Star
+Magnitude: 5.82
+
+HD 38858: G2 Type Yellow Dwarf Star
+Magnitude: 5.4
+
+HD 50571: F5 Type Yellow-white Dwarf Star
+Magnitude: 7.26
+
+HD 53143: K1 Type Orange Dwarf Star
+Magnitude: 6.9
+
+HD 61005: G8 Type Yellow Dwarf Star
+Magnitude: 8.3
+
+HD 70313: A3 Type Blue Dwarf Star
+Magnitude: 5.63
+
+HD 71155: A0 Type Blue Dwarf Star
+Magnitude: 3.9
+
+HD 71722: A2 Type Blue Dwarf Star
+Magnitude: 7.95
+
+HD 74873: A1 Type Blue Dwarf Star
+Magnitude: 7.2
+
+HD 92945: K1 Type Orange Dwarf Star
+Magnitude: 7.2
+
+HD 95086: A8 Type Blue Dwarf Star
+Magnitude: 7.5
+
+HD 97048: A0 Type Blue Dwarf Star
+Magnitude: 8.5
+
+HD 98800B: K5 Type Orange Dwarf Star
+Magnitude: 8.5
+
+Hen 3-600A: M4 Type Red Dwarf Star
+HH 212: nan Spectral Class Data missing
+Magnitude: -
+
+HH 30: K7 Type Orange Dwarf Star
+Magnitude: 16.4
+
+HIP 67497: F0 Type Yellow-white Dwarf Star
+Magnitude: 8.69
+
+HIP 79977: F2 Type Yellow-white Dwarf Star
+Magnitude: 8.7
+
+HK Tau B: M1 Type Red Dwarf Star
+Magnitude: 14
+
+HL Tau: K5 Type Orange Dwarf Star
+Magnitude: 11.4
+
+HOPS 136: nan Spectral Class Data missing
+Magnitude: nan
+
+HR 4796A: A0 Type Blue Dwarf Star
+Magnitude: 5.8
+
+HR 8799: A5 Type Blue Dwarf Star
+Magnitude: 5.8
+
+HT Lup A: K2 Type Orange Dwarf Star
+Magnitude: 10.5
+
+HT Lup B: nan Spectral Class Data missing
+Magnitude: nan
+
+HT Lup C: nan Spectral Class Data missing
+Magnitude: nan
+
+HV Tau C: M0 Type Red Dwarf Star
+Magnitude: 13.2
+
+IC 348-IR: B7 Type Blue Massive Star
+IM Lup: M0 Type Red Dwarf Star
+Magnitude: 12.1
+
+IP Tau: M0 Type Red Dwarf Star
+Magnitude: 12.5
+
+IQ Tau: M0 Type Red Dwarf Star
+Magnitude: 12.4
+
+IRAS 04158+2805: M3 Type Red Dwarf Star
+Magnitude: 18.5
+
+IRAS 04302+2247: nan Spectral Class Data missing
+Magnitude: nan
+
+IRAS 04325+2402: nan Spectral Class Data missing
+Magnitude: nan
+
+IRAS 04385+2550: M0 Type Red Dwarf Star
+Magnitude: 15.7
+
+IRAS 18059-3211: A0 Type Blue Dwarf Star
+Magnitude: 13.6
+
+IRAS 18151-1208: nan Spectral Class Data missing
+Magnitude: nan
+
+Kappa CrB: K1 Type Orange Dwarf Star
+Magnitude: 4.06
+
+L1527 IRS: nan Spectral Class Data missing
+Magnitude: nan
+
+L1551 IRS 5: nan Spectral Class Data missing
+Magnitude: nan
+
+lambda Boo: A0 Type Blue Dwarf Star
+Magnitude: 4.1
+
+LkCa 15: K5 Type Orange Dwarf Star
+Magnitude: 11.8
+
+LkHa 263 C: M0 Type Red Dwarf Star
+Magnitude: 13.7
+
+LkHa 330: G2 Type Yellow Dwarf Star
+Magnitude: 11.2
+
+LkHa 358: M5 Type Red Dwarf Star
+Magnitude: 18
+
+M17-SO1: nan Spectral Class Data missing
+Magnitude: nan
+
+MWC 480: A2 Type Blue Dwarf Star
+Magnitude: 7.8
+
+MWC 758: A3 Type Blue Dwarf Star
+Magnitude: 8.1
+
+MWC 778: nan Spectral Class Data missing
+Magnitude: 14
+
+MY Lup: K0 Type Orange Dwarf Star
+Magnitude: 11.1
+
+NGC 1333 IRAS 3B: nan Spectral Class Data missing
+Magnitude: nan
+
+Oph IRS 48: A0 Type Blue Dwarf Star
+Magnitude: 16.7
+
+OPH-E_MM3: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 051-3541: nan Spectral Class Data missing
+Magnitude: 20
+
+Orion 053-717: K5 Type Orange Dwarf Star
+Magnitude: 13.6
+
+Orion 090-326: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 110-3035: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 114-426: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 121-1925: M4 Type Red Dwarf Star
+Orion 124-132: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 132-042: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 132-1832: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 139-409: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 141-1952: G8 Type Yellow Dwarf Star
+Orion 163-026: M5 Type Red Dwarf Star
+Orion 165-254: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 167-231: M4 Type Red Dwarf Star
+Orion 172-028: M3 Type Red Dwarf Star
+Orion 182-332: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 182-413: nan Spectral Class Data missing
+Magnitude: 16.2
+
+Orion 183-405: M3 Type Red Dwarf Star
+Orion 183-419: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 191-232: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 193-1659: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 203-506: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 216-0939: K5 Type Orange Dwarf Star
+Magnitude: 18.8
+
+Orion 218-354: G6 Type Yellow Dwarf Star
+Orion 218-529: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 230-536: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 239-334: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 253-1536: M2 Type Red Dwarf Star
+Orion 280-1720: M4 Type Red Dwarf Star
+Orion 281-306: M3 Type Red Dwarf Star
+Orion 294-606: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 294-757: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 321-602: nan Spectral Class Data missing
+Magnitude: 22
+
+Orion 332-405: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 346-1553: M4 Type Red Dwarf Star
+Orion 347-1535: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 4538-311: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 473-245: nan Spectral Class Data missing
+Magnitude: nan
+
+PDS 144N: A2 Type Blue Dwarf Star
+Magnitude: 11.6
+
+PDS 66: K1 Type Orange Dwarf Star
+Magnitude: 10.3
+
+PDS 70: K5 Type Orange Dwarf Star
+Magnitude: 11.3
+
+PV Cephei: A5 Type Blue Dwarf Star
+Magnitude: 11.1
+
+rho Vir: A0 Type Blue Dwarf Star
+Magnitude: 4.8
+
+RU Lup: M0 Type Red Dwarf Star
+Magnitude: 10.2
+
+RX J1615.3-3255: K5 Type Orange Dwarf Star
+Magnitude: 11.2
+
+RY Tau: K1 Type Orange Dwarf Star
+Magnitude: 12.8
+
+SR 21: G3 Type Yellow Dwarf Star
+SR 24 S: K1 Type Orange Dwarf Star
+Magnitude: 14.2
+
+SR 4: K7 Type Orange Dwarf Star
+Magnitude: 11.7
+
+Sz 114: M5 Type Red Dwarf Star
+Magnitude: 14.4
+
+Sz 129: K7 Type Orange Dwarf Star
+Magnitude: 11.9
+
+Tau Ceti: G8 Type Yellow Dwarf Star
+Magnitude: 3.5
+
+TW Hya: K7 Type Orange Dwarf Star
+Magnitude: 11.4
+
+TWA 25: M0 Type Red Dwarf Star
+Magnitude: 10.9
+
+TWA 7: M2 Type Red Dwarf Star
+Magnitude: 11
+
+UX Tau A: G5 Type Yellow Dwarf Star
+UY Aur: K7 Type Orange Dwarf Star
+Magnitude: 10
+
+UZ Tau E: M1 Type Red Dwarf Star
+Magnitude: 11.2
+
+V1094 Sco: K6 Type Orange Dwarf Star
+Magnitude: 12.5
+
+V4046 Sgr: K5 Type Orange Dwarf Star
+Magnitude: 9.6
+
+V883 Ori: nan Spectral Class Data missing
+Magnitude: nan
+
+V892 Tau: B8 Type Blue Massive Star
+Magnitude: 14.4
+
+Vega: A0 Type Blue Dwarf Star
+Magnitude: 0.1
+
+WaOph 6: K7 Type Orange Dwarf Star
+Magnitude: 12
+
+WL 16: B8 Type Blue Massive Star
+WL 20 S: nan Spectral Class Data missing
+Magnitude: nan
+
+WSB 52: M0 Type Red Dwarf Star
+Magnitude: 15.8
+
+WSB 60: M4 Type Red Dwarf Star
+Magnitude: 16.6
+
+WW Cha: K5 Type Orange Dwarf Star
+Magnitude: 13.3
+
+zeta Lep: A0 Type Blue Dwarf Star
+Magnitude: 3.4
+
+2MASSI J1628137-243139: nan Spectral Class Data missing
+Magnitude: 17.7
+
+49 Cet: A1 Type Blue Dwarf Star
+Magnitude: 5.6
+
+61 Vir: G7 Type Yellow Dwarf Star
+Magnitude: 4.2
+
+99 Her: F7 Type Yellow-white Dwarf Star
+Magnitude: 4.7
+
+[MR81] H alpha 17 NE: M2 Type Red Dwarf Star
+Magnitude: 16.9
+
+AA Tau: M0 Type Red Dwarf Star
+Magnitude: 11.8
+
+AB Aur: A0 Type Blue Dwarf Star
+Magnitude: 7.1
+
+alpha CrB: A0 Type Blue Dwarf Star
+Magnitude: 2.2
+
+AS 205 A: K0 Type Orange Dwarf Star
+Magnitude: 12.8
+
+AS 205 B: K7 Type Orange Dwarf Star
+Magnitude: 14
+
+AS 209: K5 Type Orange Dwarf Star
+Magnitude: 10.4
+
+ASR 41: nan Spectral Class Data missing
+Magnitude: nan
+
+AU Mic: M1 Type Red Dwarf Star
+Magnitude: 8.9
+
+beta Leo: A3 Type Blue Dwarf Star
+Magnitude: 2
+
+beta Pictoris: A5 Type Blue Dwarf Star
+Magnitude: 3.9
+
+beta Tri: A5 Type Blue Dwarf Star
+Magnitude: 2.9
+
+beta UMa: A1 Type Blue Dwarf Star
+Magnitude: 2.3
+
+BP Psc: nan Spectral Class Data missing
+Magnitude: 12.2
+
+BP Tau: K7 Type Orange Dwarf Star
+Magnitude: 11.1
+
+CAHA J23056+6016: nan Spectral Class Data missing
+Magnitude: nan
+
+CB 26: nan Spectral Class Data missing
+Magnitude: nan
+
+CI Tau: K7 Type Orange Dwarf Star
+Magnitude: 12.3
+
+CIDA 9: M4 Type Red Dwarf Star
+Magnitude: 14.5
+
+CoKu Tau 1: M0 Type Red Dwarf Star
+Magnitude: 16.8
+
+CQ Tau: F2 Type Yellow-white Dwarf Star
+Magnitude: 8.9
+
+CRBR 2422.8-3423: nan Spectral Class Data missing
+Magnitude: nan
+
+CY Tau: M1 Type Red Dwarf Star
+Magnitude: 12.5
+
+DG Tau: K6 Type Orange Dwarf Star
+Magnitude: 11.4
+
+DG Tau B: nan Spectral Class Data missing
+Magnitude: nan
+
+DL Tau: K7 Type Orange Dwarf Star
+Magnitude: 11.8
+
+DM Tau: M1 Type Red Dwarf Star
+Magnitude: 12.1
+
+DN Tau: M0 Type Red Dwarf Star
+Magnitude: 11.5
+
+DO Tau: M0 Type Red Dwarf Star
+Magnitude: 12.3
+
+DoAr 25: K7 Type Orange Dwarf Star
+Magnitude: 12.7
+
+DoAr 28: K5 Type Orange Dwarf Star
+Magnitude: 12.1
+
+DoAr 33: K4 Type Orange Dwarf Star
+Magnitude: 13.2
+
+DoAr 44: K5 Type Orange Dwarf Star
+Magnitude: 11.7
+
+DQ Tau: M0 Type Red Dwarf Star
+Magnitude: 13.2
+
+DR Tau: K4 Type Orange Dwarf Star
+Magnitude: 13.6
+
+DS Tau: M0 Type Red Dwarf Star
+Magnitude: 12.4
+
+Elias 2-20: M0 Type Red Dwarf Star
+Magnitude: 19.4
+
+Elias 2-24: K5 Type Orange Dwarf Star
+Magnitude: 15.8
+
+Elias 2-27: M0 Type Red Dwarf Star
+epsilon Eri: K2 Type Orange Dwarf Star
+Magnitude: 3.8
+
+ESO Halpha 569: M2 Type Red Dwarf Star
+Magnitude: 19.7
+
+eta Crv: F2 Type Yellow-white Dwarf Star
+Magnitude: 4.4
+
+FN Tau: M5 Type Red Dwarf Star
+Magnitude: 13.7
+
+Fomalhaut: A3 Type Blue Dwarf Star
+Magnitude: 1.2
+
+FT Tau: M3 Type Red Dwarf Star
+Magnitude: 13.2
+
+FW Tau C: nan Spectral Class Data missing
+Magnitude: 20.9
+
+gamma Dor: F1 Type Yellow-white Dwarf Star
+Magnitude: 4
+
+gamma Oph: A0 Type Blue Dwarf Star
+Magnitude: 3.7
+
+gamma Tri: A1 Type Blue Dwarf Star
+Magnitude: 3.9
+
+GG Tau: K7 Type Orange Dwarf Star
+Magnitude: 10.8
+
+GJ 581: M3 Type Red Dwarf Star
+Magnitude: 9.5
+
+GM Aur: K7 Type Orange Dwarf Star
+Magnitude: 11.2
+
+GO Tau: K5 Type Orange Dwarf Star
+Magnitude: 13.6
+
+GSS 39: M0 Type Red Dwarf Star
+GW Lup: M1 Type Red Dwarf Star
+Magnitude: 12.7
+
+Haro 6-13: M0 Type Red Dwarf Star
+Magnitude: 15
+
+Haro 6-5B: K5 Type Orange Dwarf Star
+Magnitude: 13.6
+
+HD 100453: A9 Type Blue Dwarf Star
+Magnitude: 7.8
+
+HD 100546: B9 Type Blue Massive Star
+Magnitude: 6.7
+
+HD 104860: F8 Type Yellow-white Dwarf Star
+Magnitude: 8
+
+HD 10647: F8 Type Yellow-white Dwarf Star
+Magnitude: 5.5
+
+HD 106906: F5 Type Yellow-white Dwarf Star
+Magnitude: 8.24
+
+HD 107146: G2 Type Yellow Dwarf Star
+Magnitude: 6.7
+
+HD 10939: A1 Type Blue Dwarf Star
+Magnitude: 5.12
+
+HD 110058: A0 Type Blue Dwarf Star
+Magnitude: 7.99
+
+HD 111520: F5 Type Yellow-white Dwarf Star
+Magnitude: 9.27
+
+HD 112810: F3 Type Yellow-white Dwarf Star
+Magnitude: 9.51
+
+HD 113766: F3 Type Yellow-white Dwarf Star
+Magnitude: 7.96
+
+HD 114082: F3 Type Yellow-white Dwarf Star
+Magnitude: 8.58
+
+HD 115600: F2 Type Yellow-white Dwarf Star
+Magnitude: 8.57
+
+HD 117214: F6 Type Yellow-white Dwarf Star
+Magnitude: 7.6
+
+HD 129590: G1 Type Yellow Dwarf Star
+Magnitude: 9.86
+
+HD 131835: A2 Type Blue Dwarf Star
+Magnitude: 7.95
+
+HD 135344B: F4 Type Yellow-white Dwarf Star
+Magnitude: 8.7
+
+HD 138813: A0 Type Blue Dwarf Star
+Magnitude: 7.32
+
+HD 138965: A1 Type Blue Dwarf Star
+Magnitude: 6.51
+
+HD 139664: F5 Type Yellow-white Dwarf Star
+Magnitude: 4.7
+
+HD 141378: A5 Type Blue Dwarf Star
+Magnitude: 5.61
+
+HD 141569A: B9 Type Blue Massive Star
+Magnitude: 7.1
+
+HD 141943: G2 Type Yellow Dwarf Star
+Magnitude: 7.5
+
+HD 142446: F3 Type Yellow-white Dwarf Star
+Magnitude: 9.32
+
+HD 142527: F6 Type Yellow-white Dwarf Star
+Magnitude: 8.4
+
+HD 142666: A8 Type Blue Dwarf Star
+Magnitude: 8.3
+
+HD 143006: G7 Type Yellow Dwarf Star
+Magnitude: 9.6
+
+HD 145560: F5 Type Yellow-white Dwarf Star
+Magnitude: 9.3
+
+HD 146181: F6 Type Yellow-white Dwarf Star
+Magnitude: 9.56
+
+HD 150193A: A2 Type Blue Dwarf Star
+Magnitude: 8.9
+
+HD 15115: F2 Type Yellow-white Dwarf Star
+Magnitude: 6.8
+
+HD 153053: A5 Type Blue Dwarf Star
+Magnitude: 5.72
+
+HD 156623: A0 Type Blue Dwarf Star
+Magnitude: 7.28
+
+HD 15745: F2 Type Yellow-white Dwarf Star
+Magnitude: 7.5
+
+HD 157587: F5 Type Yellow-white Dwarf Star
+Magnitude: 8.1
+
+HD 159492: A5 Type Blue Dwarf Star
+Magnitude: 5.33
+
+HD 163296: A1 Type Blue Dwarf Star
+Magnitude: 6.9
+
+HD 166: K0 Type Orange Dwarf Star
+Magnitude: 5.6
+
+HD 16743: F0 Type Yellow-white Dwarf Star
+Magnitude: 6.86
+
+HD 169142: A5 Type Blue Dwarf Star
+Magnitude: 8.2
+
+HD 170773: F5 Type Yellow-white Dwarf Star
+Magnitude: 6.67
+
+HD 172555: A5 Type Blue Dwarf Star
+Magnitude: 4.93
+
+HD 17848: A2 Type Blue Dwarf Star
+Magnitude: 5.34
+
+HD 181296: A0 Type Blue Dwarf Star
+Magnitude: 5
+
+HD 181327: F5 Type Yellow-white Dwarf Star
+Magnitude: 7.1
+
+HD 181869: B8 Type Blue Massive Star
+Magnitude: 3.9
+
+HD 182681: B8 Type Blue Massive Star
+Magnitude: 5.62
+
+HD 183324: A0 Type Blue Dwarf Star
+Magnitude: 5.87
+
+HD 188228: A0 Type Blue Dwarf Star
+Magnitude: 3.96
+
+HD 191089: F5 Type Yellow-white Dwarf Star
+Magnitude: 7
+
+HD 192425: A1 Type Blue Dwarf Star
+Magnitude: 5.04
+
+HD 195627: F1 Type Yellow-white Dwarf Star
+Magnitude: 4.84
+
+HD 200775: B2 Type Blue Massive Star
+Magnitude: 7.5
+
+HD 202628: G2 Type Yellow Dwarf Star
+Magnitude: 6.4
+
+HD 202917: G7 Type Yellow Dwarf Star
+Magnitude: 8.1
+
+HD 206893: F5 Type Yellow-white Dwarf Star
+Magnitude: 7.07
+
+HD 207129: G2 Type Yellow Dwarf Star
+Magnitude: 5.4
+
+HD 20794: G6 Type Yellow Dwarf Star
+Magnitude: 3.7
+
+HD 21997: A3 Type Blue Dwarf Star
+Magnitude: 6.47
+
+HD 23484: K2 Type Orange Dwarf Star
+Magnitude: 6.52
+
+HD 28355: A7 Type Blue Dwarf Star
+Magnitude: 4.9
+
+HD 30422: A3 Type Blue Dwarf Star
+Magnitude: 6.27
+
+HD 30447: F3 Type Yellow-white Dwarf Star
+Magnitude: 7.5
+
+HD 32297: A0 Type Blue Dwarf Star
+Magnitude: 8.1
+
+HD 34282: A0 Type Blue Dwarf Star
+Magnitude: 10.1
+
+HD 35650: K6 Type Orange Dwarf Star
+Magnitude: 8.29
+
+HD 35841: F3 Type Yellow-white Dwarf Star
+Magnitude: 8.5
+
+HD 36546: B8 Type Blue Massive Star
+Magnitude: 6.93
+
+HD 377: G2 Type Yellow Dwarf Star
+Magnitude: 7.1
+
+HD 38206: A0 Type Blue Dwarf Star
+Magnitude: 5.82
+
+HD 38858: G2 Type Yellow Dwarf Star
+Magnitude: 5.4
+
+HD 50571: F5 Type Yellow-white Dwarf Star
+Magnitude: 7.26
+
+HD 53143: K1 Type Orange Dwarf Star
+Magnitude: 6.9
+
+HD 61005: G8 Type Yellow Dwarf Star
+Magnitude: 8.3
+
+HD 70313: A3 Type Blue Dwarf Star
+Magnitude: 5.63
+
+HD 71155: A0 Type Blue Dwarf Star
+Magnitude: 3.9
+
+HD 71722: A2 Type Blue Dwarf Star
+Magnitude: 7.95
+
+HD 74873: A1 Type Blue Dwarf Star
+Magnitude: 7.2
+
+HD 92945: K1 Type Orange Dwarf Star
+Magnitude: 7.2
+
+HD 95086: A8 Type Blue Dwarf Star
+Magnitude: 7.5
+
+HD 97048: A0 Type Blue Dwarf Star
+Magnitude: 8.5
+
+HD 98800B: K5 Type Orange Dwarf Star
+Magnitude: 8.5
+
+Hen 3-600A: M4 Type Red Dwarf Star
+HH 212: nan Spectral Class Data missing
+Magnitude: -
+
+HH 30: K7 Type Orange Dwarf Star
+Magnitude: 16.4
+
+HIP 67497: F0 Type Yellow-white Dwarf Star
+Magnitude: 8.69
+
+HIP 79977: F2 Type Yellow-white Dwarf Star
+Magnitude: 8.7
+
+HK Tau B: M1 Type Red Dwarf Star
+Magnitude: 14
+
+HL Tau: K5 Type Orange Dwarf Star
+Magnitude: 11.4
+
+HOPS 136: nan Spectral Class Data missing
+Magnitude: nan
+
+HR 4796A: A0 Type Blue Dwarf Star
+Magnitude: 5.8
+
+HR 8799: A5 Type Blue Dwarf Star
+Magnitude: 5.8
+
+HT Lup A: K2 Type Orange Dwarf Star
+Magnitude: 10.5
+
+HT Lup B: nan Spectral Class Data missing
+Magnitude: nan
+
+HT Lup C: nan Spectral Class Data missing
+Magnitude: nan
+
+HV Tau C: M0 Type Red Dwarf Star
+Magnitude: 13.2
+
+IC 348-IR: B7 Type Blue Massive Star
+IM Lup: M0 Type Red Dwarf Star
+Magnitude: 12.1
+
+IP Tau: M0 Type Red Dwarf Star
+Magnitude: 12.5
+
+IQ Tau: M0 Type Red Dwarf Star
+Magnitude: 12.4
+
+IRAS 04158+2805: M3 Type Red Dwarf Star
+Magnitude: 18.5
+
+IRAS 04302+2247: nan Spectral Class Data missing
+Magnitude: nan
+
+IRAS 04325+2402: nan Spectral Class Data missing
+Magnitude: nan
+
+IRAS 04385+2550: M0 Type Red Dwarf Star
+Magnitude: 15.7
+
+IRAS 18059-3211: A0 Type Blue Dwarf Star
+Magnitude: 13.6
+
+IRAS 18151-1208: nan Spectral Class Data missing
+Magnitude: nan
+
+Kappa CrB: K1 Type Orange Dwarf Star
+Magnitude: 4.06
+
+L1527 IRS: nan Spectral Class Data missing
+Magnitude: nan
+
+L1551 IRS 5: nan Spectral Class Data missing
+Magnitude: nan
+
+lambda Boo: A0 Type Blue Dwarf Star
+Magnitude: 4.1
+
+LkCa 15: K5 Type Orange Dwarf Star
+Magnitude: 11.8
+
+LkHa 263 C: M0 Type Red Dwarf Star
+Magnitude: 13.7
+
+LkHa 330: G2 Type Yellow Dwarf Star
+Magnitude: 11.2
+
+LkHa 358: M5 Type Red Dwarf Star
+Magnitude: 18
+
+M17-SO1: nan Spectral Class Data missing
+Magnitude: nan
+
+MWC 480: A2 Type Blue Dwarf Star
+Magnitude: 7.8
+
+MWC 758: A3 Type Blue Dwarf Star
+Magnitude: 8.1
+
+MWC 778: nan Spectral Class Data missing
+Magnitude: 14
+
+MY Lup: K0 Type Orange Dwarf Star
+Magnitude: 11.1
+
+NGC 1333 IRAS 3B: nan Spectral Class Data missing
+Magnitude: nan
+
+Oph IRS 48: A0 Type Blue Dwarf Star
+Magnitude: 16.7
+
+OPH-E_MM3: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 051-3541: nan Spectral Class Data missing
+Magnitude: 20
+
+Orion 053-717: K5 Type Orange Dwarf Star
+Magnitude: 13.6
+
+Orion 090-326: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 110-3035: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 114-426: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 121-1925: M4 Type Red Dwarf Star
+Orion 124-132: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 132-042: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 132-1832: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 139-409: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 141-1952: G8 Type Yellow Dwarf Star
+Orion 163-026: M5 Type Red Dwarf Star
+Orion 165-254: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 167-231: M4 Type Red Dwarf Star
+Orion 172-028: M3 Type Red Dwarf Star
+Orion 182-332: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 182-413: nan Spectral Class Data missing
+Magnitude: 16.2
+
+Orion 183-405: M3 Type Red Dwarf Star
+Orion 183-419: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 191-232: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 193-1659: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 203-506: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 216-0939: K5 Type Orange Dwarf Star
+Magnitude: 18.8
+
+Orion 218-354: G6 Type Yellow Dwarf Star
+Orion 218-529: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 230-536: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 239-334: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 253-1536: M2 Type Red Dwarf Star
+Orion 280-1720: M4 Type Red Dwarf Star
+Orion 281-306: M3 Type Red Dwarf Star
+Orion 294-606: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 294-757: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 321-602: nan Spectral Class Data missing
+Magnitude: 22
+
+Orion 332-405: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 346-1553: M4 Type Red Dwarf Star
+Orion 347-1535: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 4538-311: nan Spectral Class Data missing
+Magnitude: nan
+
+Orion 473-245: nan Spectral Class Data missing
+Magnitude: nan
+
+PDS 144N: A2 Type Blue Dwarf Star
+Magnitude: 11.6
+
+PDS 66: K1 Type Orange Dwarf Star
+Magnitude: 10.3
+
+PDS 70: K5 Type Orange Dwarf Star
+Magnitude: 11.3
+
+PV Cephei: A5 Type Blue Dwarf Star
+Magnitude: 11.1
+
+rho Vir: A0 Type Blue Dwarf Star
+Magnitude: 4.8
+
+RU Lup: M0 Type Red Dwarf Star
+Magnitude: 10.2
+
+RX J1615.3-3255: K5 Type Orange Dwarf Star
+Magnitude: 11.2
+
+RY Tau: K1 Type Orange Dwarf Star
+Magnitude: 12.8
+
+SR 21: G3 Type Yellow Dwarf Star
+SR 24 S: K1 Type Orange Dwarf Star
+Magnitude: 14.2
+
+SR 4: K7 Type Orange Dwarf Star
+Magnitude: 11.7
+
+Sz 114: M5 Type Red Dwarf Star
+Magnitude: 14.4
+
+Sz 129: K7 Type Orange Dwarf Star
+Magnitude: 11.9
+
+Tau Ceti: G8 Type Yellow Dwarf Star
+Magnitude: 3.5
+
+TW Hya: K7 Type Orange Dwarf Star
+Magnitude: 11.4
+
+TWA 25: M0 Type Red Dwarf Star
+Magnitude: 10.9
+
+TWA 7: M2 Type Red Dwarf Star
+Magnitude: 11
+
+UX Tau A: G5 Type Yellow Dwarf Star
+UY Aur: K7 Type Orange Dwarf Star
+Magnitude: 10
+
+UZ Tau E: M1 Type Red Dwarf Star
+Magnitude: 11.2
+
+V1094 Sco: K6 Type Orange Dwarf Star
+Magnitude: 12.5
+
+V4046 Sgr: K5 Type Orange Dwarf Star
+Magnitude: 9.6
+
+V883 Ori: nan Spectral Class Data missing
+Magnitude: nan
+
+V892 Tau: B8 Type Blue Massive Star
+Magnitude: 14.4
+
+Vega: A0 Type Blue Dwarf Star
+Magnitude: 0.1
+
+WaOph 6: K7 Type Orange Dwarf Star
+Magnitude: 12
+
+WL 16: B8 Type Blue Massive Star
+WL 20 S: nan Spectral Class Data missing
+Magnitude: nan
+
+WSB 52: M0 Type Red Dwarf Star
+Magnitude: 15.8
+
+WSB 60: M4 Type Red Dwarf Star
+Magnitude: 16.6
+
+WW Cha: K5 Type Orange Dwarf Star
+Magnitude: 13.3
+
+zeta Lep: A0 Type Blue Dwarf Star
+Magnitude: 3.4
+
