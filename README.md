@@ -16,7 +16,7 @@ Search in pngs directory for all images
 
 ![magnitude_category](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/magnitude_category.png)
 
-![Disk major arc second sorted](https://https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/Disk_major_axis_arc_sec_sorted.png)
+![Disk major arc second sorted](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/Disk_major_axis_arc_sec_sorted.png)
 
 ![magnitude_sorted_inclination](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/Magnitude_sorted_inclination.png)
 
