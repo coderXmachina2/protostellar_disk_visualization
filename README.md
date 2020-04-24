@@ -10,3 +10,6 @@ Visualization of Catalog of Circumstellar Disk from: https://www.circumstellardi
 
 ![Spec_class Magnitude](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/Res_elem_across_vs_wavelenth_microns.png)
 
+![Spec_class Magnitude](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/Res_elem_across_vs_wavelenth_microns.png)
+
+![Spec_class Magnitude](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/magnitude_category.png)
