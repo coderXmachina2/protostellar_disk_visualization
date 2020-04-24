@@ -8,6 +8,8 @@ Search in pngs directory for all images
 
 ![Aitoff Plot](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/aitoff_plot.png)
 
+![Aitoff Plot](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/disks_galactic_coordinates.png)
+
 ![Sorted Magnitude](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/sorted_magnitude.png)
 
 ![Spec_class Magnitude](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/spec_class_temp_magnitude.png)
