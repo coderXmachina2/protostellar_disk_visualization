@@ -9,7 +9,7 @@ Why should we study circumstellar disks?
 
 1. How do stars become stars. How do they change from psrotostellar pre main sequence objects to the main sequence.
 2. How are planets formed. How do planets form from the debris discs of star formation.
-3. Protostellar outflows. Those beautiful ionised outflows. Wow. Amazing.
+3. Protostellar outflows. Ionised jets that are emitted during the early stages of star formation. They contribute to a turbulent feedback process to the interstellar medium. How?
 
 ![Aitoff Plot](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/aitoff_plot.png)
 
