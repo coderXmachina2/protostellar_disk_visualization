@@ -15,9 +15,11 @@ Plot of circumstellar disk objects as a function of their galactic coordinates
 
 ![Aitoff Plot](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/aitoff_plot.png)
 
-![Aitoff Plot](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/disks_galactic_coordinates.png)
+![Plot of galactic coordinates](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/disks_galactic_coordinates.png)
 
-The objects of the catalog exist along 2 main line of sights
+![Plot of Distances](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/disk_distances.png)
+
+The objects of the catalog exist along 2 main line of sights near 120 and 300 degrees galactic longitude. They are mostly low latitude objects objects. They are not very far from Earth galactically speaking.
 
 ![Sorted Magnitude](https://github.com/coderXmachina2/protostellar_disk_visualization/blob/master/pngs/sorted_magnitude.png)
 
